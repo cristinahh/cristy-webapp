@@ -1,2 +1,2 @@
 # cristy-webapp
-Just practice website
+This web app is not active. Please refer to "testing"
